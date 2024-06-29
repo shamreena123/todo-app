@@ -1,0 +1,11 @@
+.App{
+    max-width: 800px;
+    width: 90%;
+    margin: auto;
+    /*border: 2px solid red;*/
+}
+
+.heading{
+    text-align: center;
+    color: whitesmoke;
+}
