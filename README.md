@@ -1,7 +1,7 @@
 Steps to run the code successfully are give below:-
 
 Step 1:- Open Visual Studio Code.
-Step 2:- Clone the repository into VS code by opening the terminal and running the command "git clone https://github.com/shamreena123/todo-application.git"
+Step 2:- Clone the repository into VS code by opening the terminal and running the command "git clone https://github.com/shamreena123/todo-app.git"
 Step 3:- Change the directory to todo-app TWICE.
         Commands:- 1)"cd todo-app"
                    2)"cd todo-app"
